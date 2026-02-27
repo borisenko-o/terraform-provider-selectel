@@ -1,3 +1,28 @@
+## 7.5.4 (February 18, 2026)
+
+BUG FIXES:
+
+* Fixed `selectel_craas_token_v2` resource to recreate expired/revoked tokens instead of failing (#351)
+* Updated `craas-go` to v0.4.2
+
+## 7.5.3 (February 2, 2026)
+
+IMPROVEMENTS:
+
+* Update documentation for Private DNS resources ([#375](https://github.com/selectel/terraform-provider-selectel/pull/375))
+  
+## 7.5.2 (January 31, 2026)
+
+IMPROVEMENTS:
+
+* Update Go version (1.23 -> 1.24) ([#374](https://github.com/selectel/terraform-provider-selectel/pull/374))
+
+## 7.5.1 (January 29, 2026)
+
+IMPROVEMENTS:
+
+* Update documentation for Global Router resources ([#372](https://github.com/selectel/terraform-provider-selectel/pull/372))
+
 ## 7.5.0 (January 28, 2026)
 
 FEATURES:
